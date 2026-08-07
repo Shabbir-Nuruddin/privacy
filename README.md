@@ -1,0 +1,92 @@
+# Privacy Policy — Trust Issues
+
+**Effective date and last updated: 6 August 2026**
+
+Trust Issues is published by **Shabbir Nuruddin** ("we", "us", or "our").
+Contact: **nuruddinshabbir3@gmail.com**
+
+> This is the same text shown inside the game under **Settings → Privacy Policy**.
+
+## 1. What the game does not require
+
+The Game does not require an account, real name, email address, phone number,
+payment information, precise location, contacts, camera, microphone, or access
+to personal photos and files. The current release does not display
+advertisements or offer in-app purchases.
+
+## 2. Information stored on your device
+
+The Game stores progress, unlocked floors, deaths, checkpoints, achievements,
+best runs, Blood Shards, cosmetic ownership, equipped items, challenge codes,
+audio and visual preferences, a randomly generated safe nickname, and daily-play
+streaks using local app storage. This data normally remains until you clear the
+Game's storage or uninstall it, subject to Android backup settings.
+
+## 3. Information sent off your device
+
+**Gameplay analytics:** None. This release does not collect analytics. It does
+not send gameplay events, identifiers, or usage data to us, and it contains no
+advertising or analytics SDKs. If we introduce analytics in a future version, we
+will update this policy and the store listing before doing so.
+
+**Leaderboards and death echoes:** Not active in this release. Scores and death
+markers are not uploaded and no online records are created.
+
+**Live multiplayer:** This is the only feature that sends information off your
+device. When you choose to host or join a race, the Game connects to Photon,
+operated by Exit Games GmbH. Photon processes the room code, the automatically
+generated nickname, network and connection information, and the real-time
+gameplay state needed for the match. The other player in the room receives
+relevant movement, score, and match actions. Photon may process IP addresses
+under its own privacy policy. If you never open multiplayer, the Game makes no
+connection of this kind.
+
+**Device services:** Optional story narration uses the Android Text-to-Speech
+service. Depending on the installed provider, narration may be processed locally
+or by that provider. Sharing uses Android's share sheet and the app you select
+handles the shared material.
+
+## 4. Purposes and providers
+
+We process information only to run a live multiplayer match when you start one,
+and to keep your progress on your own device. Photon provides the multiplayer
+networking and may process information in other countries under its own privacy
+policy. We do not sell personal information and we do not share it for
+cross-context behavioural advertising.
+
+## 5. Retention
+
+Photon holds match and connection information under its own retention schedule;
+we do not keep a copy. Everything else lives on your device and remains until
+you clear the Game's storage, overwrite it, or uninstall the Game.
+
+## 6. Your choices and rights
+
+You can avoid multiplayer entirely and play the whole Game offline, mute
+narration in Settings, clear local data through Android Settings, or uninstall
+the Game. Because we do not operate a server that stores your information in
+this release, there is normally nothing on our side to access or delete; if you
+have a question or a request, email **nuruddinshabbir3@gmail.com**. Depending on
+where you live, you may have additional access, correction, deletion,
+restriction, portability, objection, consent-withdrawal, or complaint rights.
+
+## 7. Children
+
+Trust Issues is not directed to children under 13 and should not be used below
+the minimum digital-consent age that applies where the player lives without
+permission from a parent or guardian. If you believe a child submitted
+information in violation of law, contact us so we can investigate and delete it
+where appropriate.
+
+## 8. Security and changes
+
+Multiplayer traffic uses Photon's secure transport where supported. No method is
+completely secure. We may update this policy when the Game, providers, or legal
+requirements change, and the date above identifies the latest version. If a
+future version begins collecting information that this version does not, we will
+update this policy and the store listing before that version is released.
+
+## Contact
+
+Shabbir Nuruddin
+nuruddinshabbir3@gmail.com
